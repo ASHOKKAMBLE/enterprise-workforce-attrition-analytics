@@ -1,0 +1,115 @@
+FINAL MANAGEMENT QUESTIONS & ANSWERS
+
+
+1. What is the current employee attrition rate?
+
+Answer: The current overall employee attrition rate is 18.05%. The analysis shows 899 exited employees out of 4,980 employees.
+
+Management implication: Employee retention should remain an important HR priority, particularly in departments and employee groups with above-average attrition.
+
+
+
+2. Which department has the highest attrition?
+
+Answer: Engineering has the highest attrition rate at 22%, followed by HR at 21% and Finance at 20%.
+
+Management implication: Engineering should be prioritized for a detailed retention review covering career growth, workload, compensation and management support.
+
+
+
+3. Which employee group is most likely to leave?
+
+Answer: The 20–24 age group shows the highest attrition at 31%, followed by employees aged 25–29 at 24%.
+
+Management implication: Early-career employees should receive stronger onboarding, mentoring and career-development support.
+
+
+
+4. Does salary influence attrition?
+
+Answer: The analysis shows a clear association between salary bands and attrition. The 0–₹4.99 lakh salary band has the highest attrition at 35%, while attrition falls across several higher salary bands.
+
+Management implication: Salary competitiveness and career-based salary progression should be reviewed, particularly for lower-paid roles.
+
+Important: Isko report mein “salary is associated with attrition” likhna better hai, not “salary definitely causes attrition,” because the analysis is observational.
+
+
+
+5. Does overtime influence attrition?
+
+Answer: This question is not yet conclusively answered by the current Excel results we have recorded. The project requires testing the relationship between overtime and attrition, but we should not claim an effect until the overtime-vs-attrition analysis/correlation is actually calculated. The project specifically asks whether excessive overtime correlates with attrition.
+
+Management implication: This should be validated using overtime categories and attrition rates before making a policy decision.
+
+
+
+6. Does engagement influence retention?
+
+Answer: Not conclusively established yet from the current recorded results. The project requires comparing high-, medium- and low-engagement employees against attrition.
+
+Management implication: Engagement should be analyzed alongside attrition before concluding that low engagement is driving employee exits.
+
+
+
+7. Which departments have the highest productivity?
+
+Answer: Not yet established from the results we have documented here. The project requires department-level productivity analysis and ranking.
+
+Management implication: This answer should come from the Performance_Clean / productivity analysis rather than being inferred from attrition data.
+
+
+
+8. Which departments have attendance issues?
+
+Answer: Not yet conclusively established from the current documented results. The project requires attendance %, absence rate, work hours, overtime, late arrivals and remote-working analysis, including abnormal department patterns.
+
+Management implication: Department-level attendance metrics should be reviewed before identifying problem departments.
+
+
+
+9. What are the major reasons for employee exits?
+
+Answer: The leading recorded exit reasons are:
+
+Career Growth — 206
+Salary — 173
+Work-Life Balance — 160
+
+Together, these three account for 539 of 890 recorded exits, approximately 60.6%.
+
+Management implication: Management should first focus on career progression, compensation and work-life balance because these areas represent the largest concentration of recorded exit reasons.
+
+The project explicitly requires identification of the most common exit reasons and a Pareto-style analysis.
+
+
+
+10. Which employees are at high attrition risk?
+
+Answer: The risk analysis identifies:
+
+905 High-Risk employees
+50 Critical-Risk employees
+
+Together, there are 955 High/Critical-Risk employees, representing approximately 19.2% of the workforce.
+
+Management implication: These employees should receive priority retention attention through manager review, engagement discussions, career planning and workload/compensation assessment.
+
+The project defines the risk categories from Low through Critical on a 0–100 score.
+
+
+
+11. What HR actions should management prioritize?
+
+Answer: Based on the current findings, management should prioritize:
+
+1. Career growth: Create clearer promotion paths, development plans and internal mobility opportunities.
+
+2. Compensation: Review salary competitiveness, especially for lower salary bands.
+
+3. Early-career retention: Strengthen onboarding, mentoring and career support for younger employees.
+
+4. High-risk employee intervention: Prioritize the 955 High/Critical-Risk employees.
+
+5. Work-life balance: Review workload, staffing and overtime practices.
+
+6. Department-specific retention: Give special attention to Engineering, HR and Finance, which show the highest department-level attrition.
